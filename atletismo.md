@@ -1,12 +1,14 @@
-# Día
+# Atlestismo
+
+## Día
 
 Domingo 19 de marzo
 
-# Hora
+## Hora
 
 7:00 a.m. - 12 m
 
-# Lugar
+## Lugar
 
 Coliseo
 
