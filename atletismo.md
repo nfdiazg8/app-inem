@@ -1,4 +1,4 @@
-# Atlestismo
+# Atletismo
 
 ## Día
 
